@@ -12,9 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ![Cool GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+
+## 💫 About Me:
+
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Shivam+Sharma..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+
+🌱 I’m currently learning MERN and working on Projects
+
+💬 Ask me about Web Development & MERN Stack
+
+📫 Reach me out here - satish.shivam2005@gmail.com
+
+📄 Know about my experiences -> https://www.linkedin.com/in/shivamsharma006/
+
+
+
+
     
 
     
