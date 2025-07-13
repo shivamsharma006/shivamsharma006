@@ -21,6 +21,34 @@ Here are some ideas to get you started:
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Shivam+Sharma..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
 
+
+   
+My name is Shivam Sharma, and I am currently pursuing my 
+Bachelor’s in Computer Science and Engineering from GL Bajaj Institute of 
+Technology and Management, with a CGPA of 8.20 so far. Over the past few 
+years, I’ve developed a strong foundation in both software development and 
+problem-solving. I primarily work with Java and JavaScript, and I have built a 
+solid command over full-stack development using technologies like React, 
+Redux, Node.js, Express.js, and MongoDB. 
+I have built various full stack real-world projects like ‘Sensai,’ an AI career 
+coach using Gemini AI and Next.js;  second one is ‘Welth,’ a personal finance 
+platform with smart budgeting insights; and the last one is ‘Medimeet,’ an 
+online doctor consultation system with real-time video calls and prescription 
+delivery. 
+I have completed internships at Palo Alto Networks and Zscaler, where I 
+worked on cybersecurity fundamentals including zero-trust architecture. I also 
+contributed to an AI project under Microsoft and SAP, building a resume 
+screening system and Recently, at TechSonIx Solutions, I developed a 
+responsive personal portfolio website using React and Redux, major focusing 
+on clean UI. 
+Apart from that I’m also highly active in coding platform, I’ve solved over 1000 
+plus problems on LeetCode and frequently participate in hackathons like 
+Hackaccino and Google HackSprint, which helped me improve my problem
+solving logic. 
+Right now, I’m looking for an opportunity where I can contribute as a software 
+engineer, work on meaningful products, and continue learning from an 
+experienced team.
+
 🌱 I’m currently learning MERN and working on Projects
 
 💬 Ask me about Web Development & MERN Stack
