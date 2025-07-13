@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 ---
 
 
-### 🚀 Projects I'm Proud Of:
-- 🧠 **Sensai** – AI career coach using **Gemini AI + Next.js**
-- 💰 **Welth** – Personal finance app with smart budgeting insights
-- 🩺 **Medimeet** – Online doctor consultation with video call & prescription features  
 
+### 🚀 Featured Projects
+- 🧠 [**Sensai**](https://sensai-carrer-coach.vercel.app/) — AI career coach built with **Gemini AI + Next.js**  
+- 💰 [**Welth**](https://welth-ai-finance-platform-blush.vercel.app/) — Personal‑finance platform with smart budgeting insights  
+- 🩺 [**Medimeet**](https://medimeet-doctors-appointment-platfo.vercel.app/) — Real‑time doctor consultation (video + e‑Rx)  
 ---
 
 ### 🏢 Industry Experience:
