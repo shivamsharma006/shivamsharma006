@@ -62,9 +62,14 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 Competitive Programming:
-- 🔥 Solved **1000+ LeetCode** problems  
-- 🏆 Participated in hackathons like **Hackaccino** & **Google HackSprint**
+### 🏆 Achievements
+
+- 🧠 **Hackaccino 3.0**: Built an AI-based productivity tool in a 24-hour hackathon.
+- 🚀 **Google HackSprint**: Participated and showcased strong coding & DSA skills.
+- 📄 **Offer from BlueStock**: Received for outstanding project performance.
+- 🌐 **CCNA Training by Cisco**: Completed with focus on networking and security fundamentals.
+- ☕ **Java Certification (PW Skills)**: Gained hands-on experience in OOP and core Java concepts.
+- 💡 **LeetCode DSA**: Solved **1000+ problems**, **250+ day streak**, **35+ contests** — built strong problem-solving and algorithmic thinking.
 
 ---
 
