@@ -22,40 +22,62 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Shivam+Sharma..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
 
 
-   
-My name is Shivam Sharma, and I am currently pursuing my 
-Bachelor’s in Computer Science and Engineering from GL Bajaj Institute of 
-Technology and Management, with a CGPA of 8.20 so far. Over the past few 
-years, I’ve developed a strong foundation in both software development and 
-problem-solving. I primarily work with Java and JavaScript, and I have built a 
-solid command over full-stack development using technologies like React, 
-Redux, Node.js, Express.js, and MongoDB. 
-I have built various full stack real-world projects like ‘Sensai,’ an AI career 
-coach using Gemini AI and Next.js;  second one is ‘Welth,’ a personal finance 
-platform with smart budgeting insights; and the last one is ‘Medimeet,’ an 
-online doctor consultation system with real-time video calls and prescription 
-delivery. 
-I have completed internships at Palo Alto Networks and Zscaler, where I 
-worked on cybersecurity fundamentals including zero-trust architecture. I also 
-contributed to an AI project under Microsoft and SAP, building a resume 
-screening system and Recently, at TechSonIx Solutions, I developed a 
-responsive personal portfolio website using React and Redux, major focusing 
-on clean UI. 
-Apart from that I’m also highly active in coding platform, I’ve solved over 1000 
-plus problems on LeetCode and frequently participate in hackathons like 
-Hackaccino and Google HackSprint, which helped me improve my problem
-solving logic. 
-Right now, I’m looking for an opportunity where I can contribute as a software 
-engineer, work on meaningful products, and continue learning from an 
-experienced team.
+## 👋 Hey there! I'm Shivam Sharma
 
-🌱 I’m currently learning MERN and working on Projects
+🎓 I'm a final-year CSE undergrad at **GL Bajaj Institute of Technology and Management**, currently maintaining a **CGPA of 8.20**. Passionate about crafting digital experiences and solving real-world problems with code.  
 
-💬 Ask me about Web Development & MERN Stack
+### 🛠️ Tech Stack & Toolbox
+| ⚙️ Category | 🚀 Skills / Tools |
+|-------------|------------------|
+| **Languages** | Java • JavaScript |
+| **Frontend** | React • Redux • Next.js • Shadcn UI • Tailwind CSS • Bootstrap |
+| **Backend** | Node.js • Express.js • Prisma • Supabase • ArcJet |
+| **Databases** | MongoDB • MySQL |
+| **AI & APIs** | Gemini AI • Ingest • Vonage |
+| **DevOps & Hosting** | GitHub • GitHub Actions • Vercel |
+| **IDEs / Editors** | VS Code • IntelliJ IDEA |
+| **CS Fundamentals** | Data Structures & Algorithms • OOP • OS • DBMS |
+| **CP** | 🏅 LeetCode (1000 + problems) |
 
-📫 Reach me out here - satish.shivam2005@gmail.com
+---
 
-📄 Know about my experiences -> https://www.linkedin.com/in/shivamsharma006/
+
+### 🚀 Projects I'm Proud Of:
+- 🧠 **Sensai** – AI career coach using **Gemini AI + Next.js**
+- 💰 **Welth** – Personal finance app with smart budgeting insights
+- 🩺 **Medimeet** – Online doctor consultation with video call & prescription features  
+
+---
+
+### 🏢 Industry Experience:
+- 🛡️ **Palo Alto Networks** – Cybersecurity, Zero-Trust Architecture  
+- 🔐 **Zscaler** – Cyber Fundamentals Intern  
+- 🤖 **Microsoft + SAP** – Resume screening system using AI  
+- 🛠️ Built and contributed to industry-level projects during internships & freelance gigs
+
+---
+
+### 📈 Competitive Programming:
+- 🔥 Solved **1000+ LeetCode** problems  
+- 🏆 Participated in hackathons like **Hackaccino** & **Google HackSprint**
+
+---
+
+### 🎯 Currently:
+- 🌱 Learning and building with the **MERN Stack**
+- 💬 Always open to collaboration on Web Dev & Open Source
+- 💡 Seeking opportunities to grow as a **Software Engineer** with a creative and passionate team
+
+---
+
+### 📬 Connect with Me:
+- 📧 [satish.shivam2005@gmail.com](mailto:satish.shivam2005@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shivamsharma006/)  
+- 🌐 Always curious, always building...
+
+---
+
+> _"Building real solutions through code, one commit at a time."_ 🚀
 
 
 
