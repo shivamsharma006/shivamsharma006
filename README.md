@@ -41,12 +41,17 @@ Here are some ideas to get you started:
 
 ---
 
-
-
 ### 🚀 Featured Projects
-- 🧠 [**Sensai**](https://sensai-carrer-coach.vercel.app/) — AI career coach built with **Gemini AI + Next.js**  
-- 💰 [**Welth**](https://welth-ai-finance-platform-blush.vercel.app/) — Personal‑finance platform with smart budgeting insights  
-- 🩺 [**Medimeet**](https://medimeet-doctors-appointment-platfo.vercel.app/) — Real‑time doctor consultation (video + e‑Rx)  
+
+- 🧠 Sensai: https://sensai-carrer-coach.vercel.app/  
+  _An AI career coach platform built using Gemini AI and Next.js_
+
+- 💰 Welth: https://welth-ai-finance-platform-blush.vercel.app/  
+  _A personal finance platform offering smart budgeting insights_
+
+- 🩺 Medimeet: https://medimeet-doctors-appointment-platfo.vercel.app/  
+  _An online doctor consultation system with real-time video calls and **eRx (electronic prescriptions)** support_
+
 ---
 
 ### 🏢 Industry Experience:
